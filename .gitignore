@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 venv/
 .env.*
+gui.py
+graph.png
+healthcare_multi_agent.py
+multi_agent.py
+README.md
+basicchatbot.py
